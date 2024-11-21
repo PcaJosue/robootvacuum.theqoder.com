@@ -1,0 +1,12 @@
+baseURL = 'https://robootvacuum.theqoder.com/'
+languageCode = "en-us"
+title = "Buy the Best Robot Vacuum: iRobot Roomba i7+ with Automatic Dirt Disposal"
+disableKinds = ["taxonomy"]
+enableGitInfo = true
+[params]
+  author = "Josue Pacheco"
+[modules]
+  disable = true
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
